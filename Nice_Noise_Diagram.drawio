@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T11:52:58.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uV_T0U2AUkV5vgQ64Evv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T11:55:04.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8bHwRTd-sgtVAQOLfuKe" version="20.5.3" type="github">
   <diagram id="TSrqLb41TUzN-wV6DG5-" name="Page-1">
-    <mxGraphModel dx="813" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s29h0F7StyeTCf7dUMEe-1" value="Musical brain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="s29h0F7StyeTCf7dUMEe-1" value="Musical brain" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s29h0F7StyeTCf7dUMEe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s29h0F7StyeTCf7dUMEe-2" target="s29h0F7StyeTCf7dUMEe-3">
           <mxGeometry relative="1" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="s29h0F7StyeTCf7dUMEe-15" value="Comparison to Ambient music" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s29h0F7StyeTCf7dUMEe-16" value="Sound criteria for plesantness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s29h0F7StyeTCf7dUMEe-16" value="Sound criteria for plesantness" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
