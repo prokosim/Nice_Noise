@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T10:58:14.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8Y6N2bC_0anZy2CGCxp7" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T11:01:39.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BZe3L2Gv_-94TimBPxiQ" version="15.3.1" type="github">
   <diagram id="TSrqLb41TUzN-wV6DG5-" name="Page-1">
-    <mxGraphModel dx="2062" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s29h0F7StyeTCf7dUMEe-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt; &lt;/span&gt; &lt;/span&gt;Musical brain&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;align=left;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="s29h0F7StyeTCf7dUMEe-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt; &lt;/span&gt; &lt;/span&gt;Musical brain&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;align=left;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="970" height="720" as="geometry" />
         </mxCell>
         <mxCell id="s29h0F7StyeTCf7dUMEe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s29h0F7StyeTCf7dUMEe-2" target="s29h0F7StyeTCf7dUMEe-3" edge="1">
@@ -49,10 +49,16 @@
         <mxCell id="s29h0F7StyeTCf7dUMEe-5" value="Sound classification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="acctLTzOwztwQYx0RTgQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s29h0F7StyeTCf7dUMEe-9" target="acctLTzOwztwQYx0RTgQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="acctLTzOwztwQYx0RTgQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="s29h0F7StyeTCf7dUMEe-9" target="dfwp3B1YNrqgtGO_O6MF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s29h0F7StyeTCf7dUMEe-9" value="FFT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfwp3B1YNrqgtGO_O6MF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s29h0F7StyeTCf7dUMEe-10" target="dfwp3B1YNrqgtGO_O6MF-1" edge="1">
+        <mxCell id="acctLTzOwztwQYx0RTgQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s29h0F7StyeTCf7dUMEe-10" target="dfwp3B1YNrqgtGO_O6MF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s29h0F7StyeTCf7dUMEe-10" value="Harmonic series" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -85,8 +91,11 @@
         <mxCell id="dfwp3B1YNrqgtGO_O6MF-2" value="Support it by adding a fundamental" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dfwp3B1YNrqgtGO_O6MF-3" value="CHange it by making it a n-th fundamental" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dfwp3B1YNrqgtGO_O6MF-3" value="Change it by making it a n-th fundamental" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="acctLTzOwztwQYx0RTgQ-1" value="Analyze sound character" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
