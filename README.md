@@ -39,19 +39,19 @@ LEGO Kladno
 - Twelve different microphone placements
 - Posts of the workers
 - Strong rhythmic content
-- Some machines create distinguishable pitch (e. g. motor ~315 Hz)
+- Some machines create distinguishable pitch (e. g. motor ~315 Hz)\
 ![image](https://user-images.githubusercontent.com/44833796/210793509-7f5a0733-81f2-41e8-8c21-5c127964a617.png)
 
 ## Sound analysis
 ### Harmonic content - frequency domain
 - Detecting the loudest fundamental frequency
 - Detecting overtones series
-- Testing Faust language and Essentia.js framework for FFT
+- Testing Faust language and Essentia.js framework for FFT\
 ![image](https://user-images.githubusercontent.com/44833796/210793744-f968b07b-9c51-4f88-909e-82f629318253.png)
 ### Rhytmic content - time domain
 - Combination of filters and noise gate
 - Leaving the strongest beat
-- Detecting BPM
+- Detecting BPM\
 ![image](https://user-images.githubusercontent.com/44833796/210794001-287cbb20-f571-4213-a4c8-c011399a5cda.png)
 
 ## Music Generation
